@@ -284,7 +284,7 @@ fun BillForm(
                             start = 16.dp,
                             end = 16.dp
                         ),
-                        steps = 5,
+                        steps = 50,
                         onValueChangeFinished = {
 
                         })
