@@ -5,4 +5,6 @@ It is made with Jetpack Compose.
 
 It can run on Android 11 en above.
 
-![Screenshot_tipCalculator-App](https://user-images.githubusercontent.com/63862184/149506465-78c55891-c583-4804-a407-2c5f1984ab32.png)
+A preview of the screen is shown below.
+
+![Screenshot_tipCalculator-App](https://user-images.githubusercontent.com/63862184/149507279-67929496-3622-4078-9fd4-0b14b4077652.jpeg)
